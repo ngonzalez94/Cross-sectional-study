@@ -1,0 +1,14 @@
+Contig,FILE,SEQUENCE,START,END,STRAND,GENE,COVERAGE,COVERAGE_MAP,GAPS,%COVERAGE,%IDENTITY,DATABASE,ACCESSION,PRODUCT,RESISTANCE,Family
+contig_1294,./assembly.fasta,contig_1294,12407,13540,-,BLAEC,1-1134/1134,===============,0/0,100,99.65,megares,MEG_1280,Drugs:betalactams:Class_C_betalactamases:BLAEC,NA,            Enterobacteriaceae
+contig_1605,./assembly.fasta,contig_1605,729,1895,+,UGD,1-1167/1167,===============,0/0,100,96.49,megares,MEG_7328,Drugs:Cationic_antimicrobial_peptides:Lipid_A_modification:UGD,NA,            Enterobacteriaceae
+contig_2313,./assembly.fasta,contig_2313,1585,3228,+,EPTA,1-1644/1644,===============,0/0,100,99.39,megares,MEG_2739,Drugs:Cationic_antimicrobial_peptides:Lipid_A_modification:EPTA,NA,            Enterobacteriaceae
+contig_2331,./assembly.fasta,contig_2331,7300,8121,-,BACA,1-822/822,===============,0/0,100,99.76,megares,MEG_1189,Drugs:Bacitracin:Undecaprenyl_pyrophosphate_phosphatase:BACA,NA,            Enterobacteriaceae
+contig_2353,./assembly.fasta,contig_2353,766,1439,+,KDPE,1-673/678,========/======,1-Jan,99.26,97.33,megares,MEG_3448,Drugs:Aminoglycosides:Aminoglycoside_efflux_pumps:KDPE,NA,            Enterobacteriaceae
+contig_2369,./assembly.fasta,contig_2369,3236,4138,+,CEPA,1-903/903,===============,0/0,100,99.89,megares,MEG_1646,Drugs:betalactams:Class_A_betalactamases:CEPA,NA,                Bacteroidaceae
+contig_2423,./assembly.fasta,contig_2423,11528,12004,-,MPHB,1-477/477,===============,0/0,100,98.53,megares,MEG_4033,Drugs:MLS:Macrolide_phosphotransferases:MPHB,NA,            Enterobacteriaceae
+contig_2474,./assembly.fasta,contig_2474,13574,15475,+,PBP2,1-1902/1902,===============,0/0,100,99.16,megares,MEG_5400,Drugs:betalactams:Penicillin_binding_protein:PBP2,NA,            Enterobacteriaceae
+contig_2527,./assembly.fasta,contig_2527,9106,10410,-,PBP4B,1-1305/1305,===============,0/0,100,98.7,megares,MEG_5409,Drugs:betalactams:Penicillin_binding_protein:PBP4B,NA,            Enterobacteriaceae
+contig_567,./assembly.fasta,contig_567,7078,8235,+,AMPH,1-1158/1158,===============,0/0,100,99.4,megares,MEG_729,Drugs:betalactams:Penicillin_binding_protein:AMPH,NA,            Enterobacteriaceae
+contig_776,./assembly.fasta,contig_776,12434,14353,-,TETO,1-1920/1920,===============,0/0,100,99.48,megares,MEG_7161,Drugs:Tetracyclines:Tetracycline_resistance_ribosomal_protection_proteins:TETO,NA,              Lachnospiraceae
+contig_926,./assembly.fasta,contig_926,2568,4489,-,TETW,1-1921/1937,========/======,1-Jan,99.17,99.17,megares,MEG_7229,Drugs:Tetracyclines:Tetracycline_resistance_ribosomal_protection_proteins:TETW,NA,              Streptococcaceae
+contig_928,./assembly.fasta,contig_928,1636,3561,+,TETQ,1-1926/1926,===============,0/0,100,99.84,megares,MEG_7183,Drugs:Tetracyclines:Tetracycline_resistance_ribosomal_protection_proteins:TETQ,NA,                Tannerellaceae
